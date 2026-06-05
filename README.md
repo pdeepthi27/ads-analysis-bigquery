@@ -22,4 +22,4 @@ Total Conversions: 13,363
 Top channel by volume: TikTok (57% of spend)
 
 Live Dashboard
-[View Dashboard]https://datastudio.google.com/reporting/52621362-229f-492d-af1c-1f5647f821a6. 
+[View Dashboard]https://datastudio.google.com/reporting/52621362-229f-492d-af1c-1f5647f821a6.
